@@ -1,0 +1,58 @@
+
+Project Name	:	Goodman
+ID		:	NR	
+Theme		:	Woduru
+Date		:	NR	
+Uploaded on	:	NR
+Type		:	NR
+Alias name	:	NR
+Effort(hrs)	:	NR
+Due date	:	NR	
++============================================+
+Site details:
++============================================+
+
+
+Local Site Details
++===============================+
+
+	Site Url		:	NR
+
+	Database name		:	artlegend
+	DB Username 		: 	root
+	DB password 		:	
+
+	Wp Username 		:	admin
+	Wp Password 		:	wod_art#13
+
+Live Site Details
++===============================+
+	
+	Site url		:	NR
+	
+	Folder			:	NR
+	
+	wp Login url		:	NR	
+	wp Username		:	NR	
+	wp Password		:	NR
+
+	Hosting server		:	NR
+	Login			:	NR
+	Domain			:	NR
+	Username		: 	NR
+	Password		:	NR
+
+	phpmyadmin dbname	:	NR
+	phpmyadmin dbusername	:	NR
+	phpmyadmin dbpassword	:	NR
+
+	FTP Domain		:	NR	
+	FTP Username		: 	NR	
+	FTP Password		: 	NR
+	IP address		:	NR
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twilio/sdk": "^5.18",
+        "razorpay/razorpay": "2.*",
+        "kreait/firebase-php": "^4.0"
+    }
+}

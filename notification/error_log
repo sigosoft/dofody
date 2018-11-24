@@ -1,0 +1,38 @@
+[15-Jul-2018 13:09:57 Etc/GMT] PHP Warning:  Missing argument 2 for Firebase::sendPushNotification(), called in /home/sigoswvq/public_html/demo/notification/firebase.php on line 15 and defined in /home/sigoswvq/public_html/demo/notification/firebase.php on line 39
+[15-Jul-2018 13:09:57 Etc/GMT] PHP Notice:  Undefined variable: keys_news in /home/sigoswvq/public_html/demo/notification/firebase.php on line 49
+[15-Jul-2018 13:10:49 Etc/GMT] PHP Warning:  Missing argument 2 for Firebase::sendPushNotification(), called in /home/sigoswvq/public_html/demo/notification/firebase.php on line 15 and defined in /home/sigoswvq/public_html/demo/notification/firebase.php on line 39
+[15-Jul-2018 13:10:49 Etc/GMT] PHP Notice:  Undefined variable: keys_news in /home/sigoswvq/public_html/demo/notification/firebase.php on line 49
+[15-Jul-2018 13:14:42 Etc/GMT] PHP Warning:  Missing argument 2 for Firebase::sendPushNotification(), called in /home/sigoswvq/public_html/demo/notification/firebase.php on line 15 and defined in /home/sigoswvq/public_html/demo/notification/firebase.php on line 39
+[15-Jul-2018 13:14:42 Etc/GMT] PHP Notice:  Undefined variable: keys_news in /home/sigoswvq/public_html/demo/notification/firebase.php on line 49
+[15-Jul-2018 13:14:45 Etc/GMT] PHP Warning:  Missing argument 2 for Firebase::sendPushNotification(), called in /home/sigoswvq/public_html/demo/notification/firebase.php on line 15 and defined in /home/sigoswvq/public_html/demo/notification/firebase.php on line 39
+[15-Jul-2018 13:14:45 Etc/GMT] PHP Notice:  Undefined variable: keys_news in /home/sigoswvq/public_html/demo/notification/firebase.php on line 49
+[15-Jul-2018 13:17:01 Etc/GMT] PHP Warning:  Missing argument 2 for Firebase::sendPushNotification(), called in /home/sigoswvq/public_html/demo/notification/firebase.php on line 15 and defined in /home/sigoswvq/public_html/demo/notification/firebase.php on line 39
+[15-Jul-2018 13:17:01 Etc/GMT] PHP Notice:  Undefined variable: keys_news in /home/sigoswvq/public_html/demo/notification/firebase.php on line 49
+[15-Jul-2018 13:20:27 Etc/GMT] PHP Warning:  Missing argument 2 for Firebase::sendPushNotification(), called in /home/sigoswvq/public_html/demo/notification/firebase.php on line 15 and defined in /home/sigoswvq/public_html/demo/notification/firebase.php on line 39
+[20-Jul-2018 10:08:59 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[20-Jul-2018 10:10:05 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[20-Jul-2018 10:12:00 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[20-Jul-2018 10:13:11 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[20-Jul-2018 10:17:45 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[20-Jul-2018 10:18:02 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[20-Jul-2018 10:22:30 Etc/GMT] PHP Notice:  Undefined variable: token in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 11:32:10 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 16
+[23-Jul-2018 11:33:39 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 11:33:57 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 14:39:44 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 14:44:12 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 14:44:44 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 14:44:57 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[23-Jul-2018 14:45:15 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[05-Aug-2018 05:42:11 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[05-Aug-2018 05:42:11 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[06-Aug-2018 14:37:21 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[09-Aug-2018 15:14:24 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[11-Aug-2018 05:11:03 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[13-Aug-2018 14:31:25 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[02-Sep-2018 11:40:25 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/sigoswvq/public_html/demo/notification/testing_notification.php on line 3
+[06-Sep-2018 08:27:30 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/dofody/public_html/notification/testing_notification.php on line 3
+[06-Sep-2018 08:28:06 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/dofody/public_html/notification/testing_notification.php on line 3
+[26-Sep-2018 06:17:19 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/dofody/public_html/notification/testing_notification.php on line 3
+[26-Sep-2018 06:17:48 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/dofody/public_html/notification/testing_notification.php on line 3
+[10-Oct-2018 06:31:02 Etc/GMT] PHP Notice:  Undefined index: request_id in /home/dofody/public_html/notification/testing_notification.php on line 3
